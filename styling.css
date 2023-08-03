@@ -28,8 +28,15 @@ body, html {
     padding: 100px 20px;
     height: 100%;
   }
+
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
   
-  #About {background-color: #e1dede;}
-  #Projects {background-color: #e1dede;}
-  #Resume {background-color: #e1dede;}
-  #Misc {background-color: #e1dede;}
+  #About {background-color: #e7e0e0;}
+  #Projects {background-color: #e7e0e0;}
+  #Resume {background-color: #e7e0e0;}
+  #Misc {background-color: #e7e0e0;}
