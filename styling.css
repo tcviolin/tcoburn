@@ -29,7 +29,7 @@ body, html {
     height: 100%;
   }
   
-  #About {background-color: gray;}
-  #Projects {background-color: gray;}
-  #Resume {background-color: gray;}
-  #Misc {background-color: gray;}
+  #About {background-color: #c6c2c2;}
+  #Projects {background-color: #c6c2c2;}
+  #Resume {background-color: #c6c2c2;}
+  #Misc {background-color: #c6c2c2;}
