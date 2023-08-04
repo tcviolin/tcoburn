@@ -28,10 +28,6 @@ body, html {
     padding: 100px 20px;
     height: 100%;
   }
-
-  .img { 
-    padding: 10px 0px 0px 0px;
-  }
   
   #About {background-color: #e7e0e0;}
   #Projects {background-color: #e7e0e0;}
