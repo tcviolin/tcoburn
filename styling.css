@@ -29,11 +29,8 @@ body, html {
     height: 100%;
   }
 
-  div {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+  .img { 
+    padding: 10px;
   }
   
   #About {background-color: #e7e0e0;}
